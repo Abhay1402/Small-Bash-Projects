@@ -21,6 +21,7 @@ This project contains a collection of four small Bash scripts, each focusing on 
     A script that simulates a random process success or failure, uses grep to check for the word "true," and makes decisions based on the exit status. 🎯
 
 Each script demonstrates fundamental concepts in Bash scripting such as process handling, conditional logic, file management, and user interaction through the terminal. 🖥️
+
 ⚙️ Tech Stack
 
     Language: Bash
